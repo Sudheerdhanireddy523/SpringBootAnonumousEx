@@ -15,7 +15,7 @@ public class AppConfig {
 			@Override
 			public void run(String... args) throws Exception {
 				// TODO Auto-generated method stub
-				System.out.println("from 7 runner");
+				System.out.println("from 7 Runner");
 				
 			}
 		};
